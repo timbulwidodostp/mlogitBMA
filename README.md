@@ -1,6 +1,8 @@
 # mlogitBMA
 Bayesian Model Averaging for Multinomial Logit Models Use bic.mlogit (mlogitBMA) With (In) R Software
 
+https://www.youtube.com/watch?v=28cubaIHVQc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
